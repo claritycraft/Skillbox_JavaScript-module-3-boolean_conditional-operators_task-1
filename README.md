@@ -1,8 +1,8 @@
 # En: Skillbox_JavaScript-module-3-boolean_conditional-operators_task-1
 # Ru: Skillbox_JavaScript-модуль-3-булевы-значения-и-условные-операторы_задание-1
 
-#### Пожалуйста, поставьте звезду ⭐ если этот проект Вас заинтересовал
 #### Please give this project a star ⭐ if you found it interesting
+#### Пожалуйста, поставьте звезду ⭐ если этот проект Вас заинтересовал
 
 ### Ru:
 #### Задача 1
